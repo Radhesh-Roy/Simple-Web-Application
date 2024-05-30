@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\Simple.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|d:\\project\\simple.web\\simple.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|solutionrelative:simple.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|d:\\project\\simple.web\\simple.web\\views\\user\\createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|solutionrelative:simple.web\\views\\user\\createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|d:\\project\\simple.web\\simple.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|solutionrelative:simple.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|d:\\project\\simple.web\\simple.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|solutionrelative:simple.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|d:\\project\\simple.web\\simple.web\\migrations\\20240530071349_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|solutionrelative:simple.web\\migrations\\20240530071349_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|d:\\project\\simple.web\\simple.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|solutionrelative:simple.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\project\\Simple.Web\\Simple.Web\\Migrations\\20240530070959_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Simple.Web\\Migrations\\20240530070959_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|d:\\project\\simple.web\\simple.web\\modelconfiguration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|solutionrelative:simple.web\\modelconfiguration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|d:\\project\\simple.web\\simple.web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|solutionrelative:simple.web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\project\\Simple.Web\\Simple.Web\\Migrations\\20240530063220_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Simple.Web\\Migrations\\20240530063220_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|d:\\project\\simple.web\\simple.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|solutionrelative:simple.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|d:\\project\\simple.web\\simple.web\\simple.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58FE856A-5546-4231-AB33-0BA38137B1F2}|Simple.Web\\Simple.Web.csproj|solutionrelative:simple.web\\simple.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240530071349_create.cs",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\Migrations\\20240530071349_create.cs",
+              "RelativeDocumentMoniker": "Simple.Web\\Migrations\\20240530071349_create.cs",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\Migrations\\20240530071349_create.cs",
+              "RelativeToolTip": "Simple.Web\\Migrations\\20240530071349_create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:13:50.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateOrEdit.cshtml",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\Views\\User\\CreateOrEdit.cshtml",
+              "RelativeDocumentMoniker": "Simple.Web\\Views\\User\\CreateOrEdit.cshtml",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\Views\\User\\CreateOrEdit.cshtml",
+              "RelativeToolTip": "Simple.Web\\Views\\User\\CreateOrEdit.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T07:01:43.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Simple.Web\\appsettings.json",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\appsettings.json",
+              "RelativeToolTip": "Simple.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T06:20:01.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Simple.Web\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Simple.Web\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:33:33.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Simple.Web\\Program.cs",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\Program.cs",
+              "RelativeToolTip": "Simple.Web\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:18:43.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simple.Web\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Simple.Web\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T06:39:41.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240530070959_create.cs",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\Migrations\\20240530070959_create.cs",
+              "RelativeDocumentMoniker": "Simple.Web\\Migrations\\20240530070959_create.cs",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\Migrations\\20240530070959_create.cs",
+              "RelativeToolTip": "Simple.Web\\Migrations\\20240530070959_create.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:10:00.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240530063220_create.cs",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\Migrations\\20240530063220_create.cs",
+              "RelativeDocumentMoniker": "Simple.Web\\Migrations\\20240530063220_create.cs",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\Migrations\\20240530063220_create.cs",
+              "RelativeToolTip": "Simple.Web\\Migrations\\20240530063220_create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:32:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\ModelConfiguration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Simple.Web\\ModelConfiguration\\UserConfiguration.cs",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\ModelConfiguration\\UserConfiguration.cs",
+              "RelativeToolTip": "Simple.Web\\ModelConfiguration\\UserConfiguration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:26:21.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Simple.Web\\Models\\User.cs",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\Models\\User.cs",
+              "RelativeToolTip": "Simple.Web\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:15:17.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Simple.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Simple.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:21:55.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Simple.Web",
+              "DocumentMoniker": "D:\\project\\Simple.Web\\Simple.Web\\Simple.Web.csproj",
+              "RelativeDocumentMoniker": "Simple.Web\\Simple.Web.csproj",
+              "ToolTip": "D:\\project\\Simple.Web\\Simple.Web\\Simple.Web.csproj",
+              "RelativeToolTip": "Simple.Web\\Simple.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T06:20:49.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
